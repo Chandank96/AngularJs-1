@@ -1,0 +1,19 @@
+h1{
+    color: red;
+    background-color: yellow;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: rgb(68, 0, 255);
+    background-color: pink;
+}
+img {
+    height: 200px;
+    width:  200px;
+    border-radius: 100%;
+    padding: 10px;
+     
+    
+
+}
